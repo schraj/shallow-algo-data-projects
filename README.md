@@ -10,4 +10,6 @@ Explore the data for identified fraudsters and other users. What are your prelim
 
 The file users.csv contains data on a subset of fictional banking users. The abbreviation 'KYC' stands for 'Know Your Customer' - a process of identifying and verifying the client's identity when opening an account and periodically over time. The variable IS_FRAUDSTER from this dataset is your target variable. The file transactions.csv contains details of fictional transactions of these users.
 
-The files countries.csv and currency_details.csv are dictionaries that provide explanations of abbreviations used in columns COUNTRY of the users dataset and CURRENCY of the transactions dataset respectively. 
+### Results
+
+Please see [workbook](1.%20Fraud%20Detection.ipynb) for process and results.
